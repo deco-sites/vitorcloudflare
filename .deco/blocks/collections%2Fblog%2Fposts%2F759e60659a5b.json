@@ -1,0 +1,17 @@
+{
+  "name": "collections/blog/posts/759e60659a5b",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "__resolveType": "blog/loaders/Blogpost.ts",
+    "post": {
+      "authors": [],
+      "categories": [],
+      "extraProps": [],
+      "title": "Teste",
+      "excerpt": "testando testando",
+      "date": "2024-10-24",
+      "slug": "teste",
+      "content": "<p>testando um post</p>"
+    }
+  }
+}
