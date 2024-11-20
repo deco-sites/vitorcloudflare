@@ -20,9 +20,6 @@
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vitorcloudflare/d5ea9e90-d1f2-44f5-868a-1ed5f92da17f/heroo.jpeg"
     },
     {
-      "__resolveType": "site/sections/Logos.tsx"
-    },
-    {
       "__resolveType": "site/sections/ImageWithParagraph.tsx"
     },
     {
@@ -30,14 +27,14 @@
       "placement": "right"
     },
     {
-      "__resolveType": "site/sections/Testimonials.tsx",
-      "arrows": true
-    },
-    {
-      "__resolveType": "site/sections/Faq.tsx"
-    },
-    {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/Footer.tsx",
+      "links": [],
+      "bottomLinks": [],
+      "social": [],
+      "subscribe": {},
+      "logo": {
+        "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vitorcloudflare/b41d0689-9ee7-4427-850a-5495d2e55b0f/Frame-112-(2).png"
+      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",

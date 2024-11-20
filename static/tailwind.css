@@ -1913,16 +1913,6 @@ input.tab:checked + .tab-content,
   outline-offset: 2px;
   outline-color: var(--fallback-bc,oklch(var(--bc)/0.2));
 }
-.input-primary {
-  --tw-border-opacity: 1;
-  border-color: var(--fallback-p,oklch(var(--p)/var(--tw-border-opacity)));
-}
-.input-primary:focus,
-    .input-primary:focus-within {
-  --tw-border-opacity: 1;
-  border-color: var(--fallback-p,oklch(var(--p)/var(--tw-border-opacity)));
-  outline-color: var(--fallback-p,oklch(var(--p)/1));
-}
 .input-disabled,
   .input:disabled,
   .input[disabled] {
@@ -3134,9 +3124,6 @@ input.tab:checked + .tab-content,
 .gap-8 {
   gap: 2rem;
 }
-.gap-9 {
-  gap: 2.25rem;
-}
 .gap-\[16px\] {
   gap: 16px;
 }
@@ -3906,10 +3893,6 @@ input.tab:checked + .tab-content,
   }
 
   .lg\:w-2\/5 {
-    width: 40%;
-  }
-
-  .lg\:w-\[40\%\] {
     width: 40%;
   }
 
