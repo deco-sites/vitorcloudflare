@@ -22,4 +22,4 @@ jobs:
       - name: Deco Deploy
         uses: deco-cx/deploy@959ea219d546d01c375c0e3b20c1bd1513c2788b
         with:
-          checkout: false
+          checkout: true
