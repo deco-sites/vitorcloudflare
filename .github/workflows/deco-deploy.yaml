@@ -17,7 +17,9 @@ jobs:
 
     steps:
       - name: Clone repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Deco Deploy
-        uses: deco-cx/deploy@v0
+        uses: deco-cx/deploy@959ea219d546d01c375c0e3b20c1bd1513c2788b
+        with:
+          checkout: true
