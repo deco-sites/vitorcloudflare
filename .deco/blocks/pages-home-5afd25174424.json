@@ -20,7 +20,8 @@
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/vitorcloudflare/d5ea9e90-d1f2-44f5-868a-1ed5f92da17f/heroo.jpeg"
     },
     {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "teste"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
