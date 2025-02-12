@@ -28,10 +28,6 @@
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "title": "teste 2"
-    },
-    {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "placement": "right"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
