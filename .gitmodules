@@ -1,0 +1,3 @@
+[submodule "sections/zisa"]
+	path = sections/zisa
+	url = git@github.com:azisaka/zisa-section.git
